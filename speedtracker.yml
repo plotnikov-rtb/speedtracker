@@ -67,12 +67,6 @@ wptKey: "bdadc5244dda1ac29c8a6f10c4beeb1abfdce1b9cee5b4cd96d46057a2dc01f44ad2"
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 alerts:
-#  emailAlert:
-#    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS"]
-#  otherEmailAlert:
-#    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
   slackAlert:
     type: "slack"
     hookUrl: "94f7d76306d607dc89843c459af4ed17e5c5b0fac2abb2c39593281ef99e41881a949d88c037538bfc70ab06e729d2c85e06a2e674737966461960689196a2a9242b25b7825dd969b9056e376c79daa8544e9ca4ebf6b2868d28c4132d97d47237f31a11914284f48fb71f16ad9c35881d94c82c07c8c27ba7"
